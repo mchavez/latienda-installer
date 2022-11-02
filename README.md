@@ -1,1 +1,0 @@
-# latienda-installer
